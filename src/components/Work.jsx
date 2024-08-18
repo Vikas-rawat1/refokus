@@ -100,7 +100,7 @@ function Work() {
                   alt=""
                   style={{ top: elem.top, left: elem.left }}
                 />
-              )sdfsdf
+              )sdf
           )}
         </div>
       </div>
