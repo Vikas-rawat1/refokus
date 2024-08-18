@@ -102,8 +102,8 @@ function Work() {
                 />
               )sdfsdf
           )}
-        </div>sdfgsfgfdsdfdsf
-      </div>sdfsafsdfdsdfssdfdfsdafdasfds
+        </div>sdfgsfgfdasdfsdfdsf
+      </div>sdfsafsdfdasdfsdfssdfdfsdafdasfds
     </div>sdsadfsdfasdf
   );
 }
