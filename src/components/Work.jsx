@@ -106,6 +106,6 @@ function Work() {
       </div>adf
     </div>adfadadfadasafadfdffadsfaadfdfaasddfadf
   );adfadfadfadfsfddf
-}asdfasdf
+}asdfasdfadf
 sadf
 export default Work;
